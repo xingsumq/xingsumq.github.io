@@ -4,8 +4,8 @@ gem "github-pages", group: :jekyll_plugins
 
 title: Xing Su's Homepage
 
-description: [PhD Candidate, Macquarie University]
+description: [PhD Candidate of Macquarie University]
 
-logo: img/profile.png
+logo: profile.png
 
 show_downloads: false
