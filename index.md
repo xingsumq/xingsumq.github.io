@@ -1,17 +1,19 @@
 ---
-layout: about
+layout: default
 ---
 
 # Biography
 I am a first-year PhD candidate in the Department of Computing, Macquarie University, Australia, supervised by Prof Jian Yang and Dr Jia Wu. I received my M.E. degree in Computer Science from Lanzhou University, China in 2020. My research interests include data mining and machine learning, specialized in graph mining and network analysis [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=2&gmla=AJsN-F5gGj6wYzVDbALPT8zdZdGL21sKz4cdtuu02P2qqypOsnQh98D1_b21ll45MTeo6LYgnTwjzDX24oIg1Vr2ZxjydquYLzQw_2Ak9dlQ0quFwrAFsyE&user=3KwkfPMAAAAJ).
-<br/>
+
+***
 
 # Research Interests
 * Graph-structured Data Mining and Analysis
 * Community Detection
 * Misinformation Identification and Truth Discovery
 * Deep Learning
-<br/>
+
+***
 
 # Publications
 [1] **Xing Su**, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu. [A Comprehensive Survey on Community Detection with Deep Learning](https://arxiv.org/abs/2105.12584), 28 Pages (Preprint). [[GitHub repository]](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection)  
@@ -22,13 +24,14 @@ I am a first-year PhD candidate in the Department of Computing, Macquarie Univer
 [6] Haijuan Yang, Jianjun Cheng*, Mingwei Leng, **Xing Su**, Wenbo Zhang, Xiaoyun Chen. [Detecting Communities from Networks based on Their Intrinsic Properties](https://www.worldscientific.com/doi/abs/10.1142/S0129183119501043). *International Journal of Modern Physics C*, vol. 30(12), pages 1-24, 2019.  
 [7] Jianjun Cheng*, Shiyan Zhao, Haijuan Yang, Jingming Zhang, **Xing Su**, Xiaoyun Chen. [Detecting communities from networks using an improved self-organizing map](https://www.worldscientific.com/doi/abs/10.1142/S0129183119500542). *International Journal of Modern Physics C*, vol. 30(06), pages 1-22, 2019.
 
+***
 # Awards
 * Joint China Scholarship Council - Macquarie University Research Excellence Scholarship, 2020.
 * Excellent Graduate of LZU, 2020.  
 * Merit Postgraduate of LZU, 2019.
 * Master's Scholarship of LZU, 2017-2019.
 
+***
+
 # Contact
 Email: xing.su2@hdr.mq.edu.au
-
-Github: https://github.com/xingsumq
