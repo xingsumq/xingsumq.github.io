@@ -4,7 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 
 title: Xing Su's Homepage
 
-description: [Xing Su 苏醒\ PhD Candidate in the Department of Computing, Macquarie University (MQ), Sydney, Australia.]
+description: [Hi, I'm Xing Su, a PhD Candidate in the Department of Computing, Macquarie University. It's nice to meet you!]
 
 logo: profile.jpg
 

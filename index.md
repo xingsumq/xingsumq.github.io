@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Xing Su 苏醒
+
 # Biography
 I am a first-year PhD candidate in the Department of Computing, Macquarie University, Australia, supervised by [Prof Jian Yang](http://web.science.mq.edu.au/~jian/) and [Dr Jia Wu](http://web.science.mq.edu.au/~jiawu/). I received my M.E. degree in Computer Science from [Lanzhou University](https://en.lzu.edu.cn/), China in 2020. My research interests include data mining and machine learning, specialized in graph mining and network analysis [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=2&gmla=AJsN-F5gGj6wYzVDbALPT8zdZdGL21sKz4cdtuu02P2qqypOsnQh98D1_b21ll45MTeo6LYgnTwjzDX24oIg1Vr2ZxjydquYLzQw_2Ak9dlQ0quFwrAFsyE&user=3KwkfPMAAAAJ).
 
@@ -27,7 +29,7 @@ I am a first-year PhD candidate in the Department of Computing, Macquarie Univer
 ***
 
 # Academic Service
-***Journal Reviewer***
+## ***Journal Reviewer***
 * Neurocomputing
 * ACM Transactions on Knowledge Discovery from Data
 
