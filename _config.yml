@@ -20,7 +20,7 @@ social:
   facebook: Test
   flickr:
   github: xingsumq
-  google_plus: Test
+  google_plus: https://scholar.google.com/citations?user=3KwkfPMAAAAJ&hl=zh-CN&authuser=2
   instagram:
   keybase:
   linkedin: Test
@@ -50,13 +50,13 @@ plugins:
   - jekyll-paginate
 
 # Permalinks
-# permalink: /:year-:month-:day/:title
-#paginate_path: "/portfolio/page:num/"
-#paginate: 5
-#exclude:
-#  - "Gemfile"
-#  - "Gemfile.lock"
-#  - "*.gem"
-#  - "LICENSE"
-#  - "READE.md"
-#  - "screenshot.png"
+permalink: /:year-:month-:day/:title
+paginate_path: "/portfolio/page:num/"
+paginate: 5
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gem"
+  - "LICENSE"
+  - "READE.md"
+  - "screenshot.png"
