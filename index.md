@@ -12,7 +12,8 @@ I am a first-year PhD candidate in the [Department of Computing, Macquarie Unive
 # Research Interests
 * Graph-structured Data Mining and Analysis
 * Community Detection
-* Misinformation Identification and Truth Discovery
+* Social Network Analysis
+* Misinformation Identification
 * Deep Learning
 
 ***
@@ -31,6 +32,7 @@ I am a first-year PhD candidate in the [Department of Computing, Macquarie Unive
 # Academic Service
 ## ***Journal Reviewer***
 * Neurocomputing
+* Neural Networks
 * ACM Transactions on Knowledge Discovery from Data
 
 ***
