@@ -34,6 +34,7 @@ I am a first-year PhD candidate in the [Department of Computing, Macquarie Unive
 * Neurocomputing
 * Neural Networks
 * ACM Transactions on Knowledge Discovery from Data
+* Journal of Network and Computer Applications
 
 ***
 
