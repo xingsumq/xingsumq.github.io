@@ -5,7 +5,7 @@ layout: default
 # Xing Su 苏醒
 
 # Biography
-I am a seconnd-year PhD candidate in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing), Australia, supervised by [Prof Jian Yang](http://web.science.mq.edu.au/~jian/) and [Dr Jia Wu](http://web.science.mq.edu.au/~jiawu/). I received my M.E. degree in Computer Science from [Lanzhou University](https://en.lzu.edu.cn/), China, in 2020. My research interests include data mining and machine learning, specialized in graph mining and network analysis [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=2&gmla=AJsN-F5gGj6wYzVDbALPT8zdZdGL21sKz4cdtuu02P2qqypOsnQh98D1_b21ll45MTeo6LYgnTwjzDX24oIg1Vr2ZxjydquYLzQw_2Ak9dlQ0quFwrAFsyE&user=3KwkfPMAAAAJ).
+I am a second-year PhD candidate in the [School of Computing, Macquarie University](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing), Australia, supervised by [Prof Jian Yang](http://web.science.mq.edu.au/~jian/) and [Dr Jia Wu](http://web.science.mq.edu.au/~jiawu/). I received my M.E. degree in Computer Science from [Lanzhou University](https://en.lzu.edu.cn/), China, in 2020. My research interests include data mining and machine learning, specialized in graph mining and network analysis [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=2&gmla=AJsN-F5gGj6wYzVDbALPT8zdZdGL21sKz4cdtuu02P2qqypOsnQh98D1_b21ll45MTeo6LYgnTwjzDX24oIg1Vr2ZxjydquYLzQw_2Ak9dlQ0quFwrAFsyE&user=3KwkfPMAAAAJ).
 
 ***
 
@@ -36,6 +36,7 @@ I am a seconnd-year PhD candidate in the [School of Computing, Macquarie Univers
 * ACM Transactions on Knowledge Discovery from Data
 * Journal of Network and Computer Applications
 * Transactions on Emerging Topics in Computing
+
 ## ***Conference Reviewer***
 * IJCNN 2022
 
