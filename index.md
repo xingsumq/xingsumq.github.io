@@ -34,12 +34,14 @@ I am a second-year PhD candidate in the [School of Computing, Macquarie Universi
 ## ***Journal Reviewer***
 * Neurocomputing
 * Neural Networks
+* Neural Processing Letters
 * ACM Transactions on Knowledge Discovery from Data
 * Journal of Network and Computer Applications
 * Transactions on Emerging Topics in Computing
 
 ## ***Conference Reviewer***
-* IJCNN 2022
+* International Joint Conference on Neural Networks(IJCNN) 2022
+* The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021
 
 ***
 
